@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <surname>Филич</surname>
+  <name>Алексей</name>
+  <patronymic>Александрович</patronymic>
+  <sex>м</sex>
+  <course>2</course>
+  <age>19</age>
+  <group>1</group>
+  <mark>0</mark>
+  <dateOfBirth>19.10.2002</dateOfBirth>
+  <adress>
+    <town>Минск</town>
+    <street>Якуба Коласа</street>
+    <house>28</house>
+    <index>123456</index>
+    <flat>200</flat>
+  </adress>
+  <placeOfWork>
+    <company>ЗАО "Итранзишн"</company>
+    <position>ТестировщикПО</position>
+    <experience>Стажировка</experience>
+    <rate>0.5</rate>
+  </placeOfWork>
+</Student>
